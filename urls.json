@@ -1,0 +1,79 @@
+{
+  "urls": [
+    {
+      "id": "1767307563111",
+      "shortId": "mVifnDIg",
+      "originalUrl": "https://github.com/Officialay12",
+      "createdAt": "2026-01-01T22:46:03.111Z",
+      "clicks": 1,
+      "lastAccessed": "2026-01-01T22:46:15.430Z",
+      "createdBy": "web"
+    },
+    {
+      "id": "1767307606104",
+      "shortId": "lP3vqKt_",
+      "originalUrl": "https://www.instagram.com/ayo_codes?igsh=NGQxbWtvcGF5cGI4",
+      "createdAt": "2026-01-01T22:46:46.104Z",
+      "clicks": 1,
+      "lastAccessed": "2026-01-01T22:46:52.462Z",
+      "createdBy": "web"
+    },
+    {
+      "id": "1767308025003",
+      "shortId": "SLU5CDam",
+      "originalUrl": "https://www.instagram.com/ayo_codes?igsh=NGQxbWtvcGF5cGI4",
+      "createdAt": "2026-01-01T22:53:45.003Z",
+      "clicks": 0,
+      "lastAccessed": null,
+      "createdBy": "web"
+    },
+    {
+      "id": "1767308039739",
+      "shortId": "ayo",
+      "originalUrl": "https://www.instagram.com/ayo_codes?igsh=NGQxbWtvcGF5cGI4",
+      "createdAt": "2026-01-01T22:53:59.739Z",
+      "clicks": 1,
+      "lastAccessed": "2026-01-01T22:54:04.821Z",
+      "createdBy": "api_u5n7BD5VL_mjw19c4i"
+    },
+    {
+      "id": "1767311594886",
+      "shortId": "dcedfffb",
+      "originalUrl": "https://www.linkedin.com/in/ayomide-omole-b96837389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "createdAt": "2026-01-01T23:53:14.886Z",
+      "clicks": 1,
+      "lastAccessed": "2026-01-01T23:53:17.595Z",
+      "createdBy": "web",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    }
+  ],
+  "stats": {
+    "totalUrls": 5,
+    "totalClicks": 4,
+    "createdAt": "2026-01-01T22:43:53.576Z",
+    "lastUpdated": "2026-01-01T23:54:49.419Z"
+  },
+  "apiKeys": {
+    "api_u5n7BD5VL_mjw19c4i": {
+      "name": "Test User",
+      "email": "test@example.com",
+      "createdAt": "2026-01-01T22:45:07.365Z",
+      "urlsCreated": 1
+    },
+    "ayo_mjw2hsd2_709e88dac4c8c2cb85167361": {
+      "name": "O. Ayomide",
+      "email": "test@ayoshort.com",
+      "createdAt": "2026-01-01T23:19:41.311Z",
+      "urlsCreated": 0,
+      "lastUsed": "2026-01-01T23:19:41.311Z"
+    },
+    "ayo_mjw3qz00_fe2d741ae01507c662fc0f0a": {
+      "name": "ayomide",
+      "email": "ayomide0001111@gmail.com",
+      "createdAt": "2026-01-01T23:54:49.419Z",
+      "urlsCreated": 0,
+      "lastUsed": "2026-01-01T23:54:49.419Z"
+    }
+  }
+}
