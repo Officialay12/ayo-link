@@ -46,13 +46,24 @@
       "createdBy": "web",
       "ipAddress": "127.0.0.1",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "1767313127053",
+      "shortId": "SUCK",
+      "originalUrl": "https://files.catbox.moe/67ut4s.mp3",
+      "createdAt": "2026-01-02T00:18:47.053Z",
+      "clicks": 1,
+      "lastAccessed": "2026-01-02T00:18:50.220Z",
+      "createdBy": "web",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
     }
   ],
   "stats": {
-    "totalUrls": 5,
-    "totalClicks": 4,
+    "totalUrls": 6,
+    "totalClicks": 5,
     "createdAt": "2026-01-01T22:43:53.576Z",
-    "lastUpdated": "2026-01-01T23:54:49.419Z"
+    "lastUpdated": "2026-01-02T00:18:50.220Z"
   },
   "apiKeys": {
     "api_u5n7BD5VL_mjw19c4i": {
